@@ -1,0 +1,19 @@
+{
+  "name": "project_tour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phatdeptry123/project_tour.git"
+  },
+  "author": "Phat Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phatdeptry123/project_tour/issues"
+  },
+  "homepage": "https://github.com/Phatdeptry123/project_tour#readme"
+}
